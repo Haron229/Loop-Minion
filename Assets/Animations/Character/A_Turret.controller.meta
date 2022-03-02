@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Animations/Character/A_Turret.controller.meta
+guid: 3d43d5c2a886b3748966869e6b072e9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+=======
+guid: 9b4d74867cd224c14a3cfc60b2328746
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>> 490afa45fe564e023ebb3b28ba97e9b6f76ab979:Assets/Materials/M_GroundFillLight.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
